@@ -1,10 +1,11 @@
-# def square_root(number):
-#     return number ** 2
+class Point:
+    def __init__(self, x, y, z):
+        self.x = x
+        self.y = y
+        self.z = z
 
-# # Given Sample List    
-# given_list = [4, 5, 2, 9]
+    def sqSum(self):
+        return self.x**2 + self.y**2 + self.z**2
 
-# # using map() to get squared numbers
-# squared_list = list(map(square_root,given_list))
-# print("Original List:", given_list)
-# print("Squared List:", squared_list)
+point = Point(1, 3, 5)
+print("The Square root of the given number is : ",point.sqSum())
