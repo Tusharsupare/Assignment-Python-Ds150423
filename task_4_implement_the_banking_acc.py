@@ -1,8 +1,7 @@
 class Account:
-    def __init__(self, title, balance):
+    def __init__(self, title, balance=0):
         self.title = title
         self.balance = balance
-        self.property = None  
 
 class SavingsAccount(Account):
     def __init__(self, title, balance, interestRate):
