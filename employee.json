@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Tushar Supare",
+    "DOB": "2000-11-23",
+    "Height": 5.11,
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Name": "Tanvi Chafle",
+    "DOB": "2003-12-21",
+    "Height": 5.8,
+    "City": "Wardha",
+    "State": "Maharashtra"
+  },
+
+  {
+    "Name": "Aditya Patil",
+    "DOB": "2005-06-23",
+    "Height": 5.6,
+    "City": "Hingoli",
+    "State": "Maharashtra"
+  },
+  {
+    "Name": "Virat Kohli",
+    "DOB": "2001-08-2",
+    "Height": 5.9,
+    "City": "Hyderabad",
+    "State": "Andhra Pradesh"
+  },
+  {
+    "Name": "Bharati Yadhav",
+    "DOB": "1996-01-23",
+    "Height": 5.7,
+    "City": "Noida",
+    "State": "Delhi"
+  }
+]
