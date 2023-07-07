@@ -1,0 +1,34 @@
+Data Types:
+What are the different data types available in programming languages?
+What is the difference between primitive data types and composite data types?
+Explain the concept of type casting or type conversion.
+What is the difference between dynamic typing and static typing?
+How are variables and data types related?
+
+Operators:
+What is the difference between unary, binary, and ternary operators?
+Explain the concept of operator precedence and associativity.
+What are the arithmetic operators, and how are they used?
+What are the logical operators, and how do they work?
+What is the purpose of the conditional operator (ternary operator)?
+
+Conditional Statements:
+What are conditional statements, and why are they used?
+What is the difference between if, if-else, and nested if statements?
+Explain the usage of switch-case statements.
+What is short-circuit evaluation in conditional statements?
+How do you handle multiple conditions using logical operators in conditional statements?
+
+Looping Statements:
+What are looping statements, and why are they used?
+Explain the usage of the for loop, while loop, and do-while loop.
+What is the difference between a break statement and a continue statement?
+How do you avoid infinite loops in programming?
+What is the purpose of nested loops, and when would you use them?
+
+Functions:
+What is a function in programming, and why is it important?
+Explain the difference between a function declaration and function definition.
+How do you pass arguments to a function, and what are the different types of function arguments?
+What is the return statement, and how is it used in functions?
+What is recursion, and when would you use it in a function?
